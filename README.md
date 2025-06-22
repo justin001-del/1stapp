@@ -24,3 +24,5 @@ No fancy design, minimal features — but it helped me:
 - Cleaner code
 
 🛠️ _Made with curiosity, not perfection._
+
+🔗**Live Demo**:[click here to try the app](https://1stapp-awqr8fkznnwexn2gndyqjs.streamlit.app/)
